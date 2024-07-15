@@ -1,3 +1,8 @@
+This repo has been archived as it's no longer actively maintained.
+
+<details>
+   <summary>Click for historical readme</summary>[]()
+
 ## About
 
 This repo is a holding area for recipes destined for a conda-forge feedstock repo. To find out more about conda-forge, see https://github.com/conda-forge/conda-smithy.
